@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreshFold</string>
+    <string name="channel_order_updates">Order Status Updates</string>
+    <string name="channel_order_updates_desc">Real-time alerts for laundry pickup, washing, and delivery</string>
+</resources>

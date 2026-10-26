@@ -1,0 +1,6 @@
+{
+  "name": "FreshFold",
+  "description": "On-demand laundry service: pick slots, track driver in real time, push notifications, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

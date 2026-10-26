@@ -1,0 +1,19 @@
+{
+  "name": "freshfold-laundry",
+  "version": "1.0.0",
+  "description": "FreshFold - On-demand laundry & dry cleaning Android application",
+  "private": true,
+  "scripts": {
+    "build": "gradle assembleDebug",
+    "test": "gradle :app:testDebugUnitTest",
+    "lint": "echo 'Android native Kotlin project'"
+  },
+  "keywords": [
+    "android",
+    "kotlin",
+    "jetpack-compose",
+    "laundry-service"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
